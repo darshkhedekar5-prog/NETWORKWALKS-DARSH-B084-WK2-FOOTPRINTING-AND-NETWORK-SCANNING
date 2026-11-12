@@ -83,10 +83,10 @@ Scanned **256 IP addresses in 6.15 seconds**, discovering **4 active hosts** on 
 ## 📸 Evidences & Screenshots
 
 ### 1. `theHarvester` Single-Source Scan (`-b baidu`)
-![theHarvester Baidu Scan](theHarvester.jpg)
+![theHarvester Baidu Scan](theHarvester.png)
 
 ### 2. `theHarvester` Multi-Source Aggregation (`-b all`)
-![theHarvester Multi-Source Scan](theHarvester%20Terminal.jpg)
+![theHarvester Multi-Source Scan](theHarvester%20Terminal.png)
 
 ### 3. Zenmap Ping Scan (`nmap -sn 192.168.1.0/24`)
 ![Zenmap Ping Scan](Zenmap%20Config.png)
